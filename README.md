@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Live DEMO: https://daniel-yap-aeiou.github.io/sampleapp/
 
+Please enter your personal key into .env file for some of the api to work.
+
 ## Available Scripts
 
 In the project directory, you can run:
