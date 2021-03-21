@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Live DEMO: https://daniel-yap-aeiou.github.io/sampleapp/
+Live DEMO: https://cid8809.github.io/sampleapp/
 
 ## Available Scripts
 
